@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## v1.0.0
 
 * remove native `usocket` dependency (this broke the tests)
 * update `xml2js` and `safe-buffer`
