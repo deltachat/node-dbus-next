@@ -3,6 +3,7 @@
 ## Unreleased
 
 * remove native `usocket` dependency (this broke the tests)
+* update `xml2js` and `safe-buffer`
 
 ## v0.10.2
 
