@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.0.1
+
+* fix ts types
+
 ## v1.0.0
 
 * remove native `usocket` dependency (this broke the tests)
