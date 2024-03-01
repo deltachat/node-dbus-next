@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+* remove native `usocket` dependency (this broke the tests)
+
 ## v0.10.2
 
 This is a hotfix release for a bug in the system message bus.
